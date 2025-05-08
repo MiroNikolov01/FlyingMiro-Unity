@@ -21,8 +21,6 @@
 
 ---
 
-## 📸 Screenshot
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ef3bfde8-77f5-4246-869e-0fb8f003a1d4" width="300" alt="Get Ready Screenshot" />
 </div>
