@@ -1,4 +1,4 @@
-# 🎮 FlyingMiro - Unity Game
+<h1 align="center">🎮 FlyingMiro - Unity Game</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4780e432-35ad-4ef9-a863-02e23976e5bb" width="300" alt="Flying Miro Logo" />
