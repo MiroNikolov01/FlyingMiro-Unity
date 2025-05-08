@@ -31,4 +31,4 @@
 
 🔗 **[Play Flying Miro on Itch.io →](https://miro-nikolov.itch.io/flyingmiro)**
 
-Made with ❤️ in **Unity**.
+Made with **Unity**. ❤️ 
