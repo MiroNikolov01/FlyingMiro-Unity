@@ -18,7 +18,6 @@ namespace FlappyBirdScripts.GameManagement
 
         [Header("Tittles")] public GameObject titleScreen;
         public GameObject gameOverScreen;
-        public GameObject billboardBas;
         public GameObject finishScreen;
         public GameObject titleScreenFinish;
 
@@ -156,7 +155,6 @@ namespace FlappyBirdScripts.GameManagement
 
             this.clickToStartEffectObject.SetActive(false);
             titleScreen.SetActive(false);
-            billboardBas.SetActive(false);
             volumeButton.SetActive(false);
             bestScorePanel.SetActive(false);
             finishScreen.SetActive(false);
@@ -292,7 +290,6 @@ namespace FlappyBirdScripts.GameManagement
             finishScreen.SetActive(true);
             titleScreenFinish.SetActive(true);
             gameOverScreen.SetActive(false);
-            billboardBas.SetActive(false);
             volumeButton.SetActive(false);
 
             playAgainButton.gameObject.SetActive(true);
