@@ -65,8 +65,7 @@ namespace FlappyBirdScripts.PipeManager
             int score = ScoreManager.instance.GetCurrentScore();
             pipePair = InstantiatePipePair(spawnPosition, _pipeSpawnCount);
 
-            if (_pipeSpawnCount == 200) return;
-            if (GameManager.instance.isGameOver) return; 
+            if (_pipeSpawnCount == 200 || GameManager.instance.isGameOver) return;
 
             if (_pipeSpawnCount % 5 == 0)
             {
