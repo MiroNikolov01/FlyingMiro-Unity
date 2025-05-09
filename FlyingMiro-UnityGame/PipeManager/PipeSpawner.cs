@@ -16,7 +16,7 @@ namespace FlappyBirdScripts.PipeManager
         public GameObject redPipePrefab;
         public GameObject pinkPipePrefab;
 
-        [Header("LevelSingPipePrefabs")] public GameObject level1PipePrefab;
+        [Header("LevelSignPipePrefabs")] public GameObject level1PipePrefab;
         public GameObject level2PipePrefab;
         public GameObject level3PipePrefab;
         public GameObject level4PipePrefab;
